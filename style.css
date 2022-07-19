@@ -1,0 +1,33 @@
+body {
+	font-family: 'Ibarra Real Nova', serif;
+	margin: 0;
+	padding: 0;
+}
+
+.all-containd {
+	width: 90%;
+	margin: auto;
+}
+
+.banner {
+	margin-top: 50px;
+	padding: 50px 50px 0px 50px;
+	border-radius: 10px;
+	background-color: rgba(3, 3, 3, 0.911);
+	color: white;
+	display: flex;
+}
+.title-part{
+	margin-right: 160px;
+}
+.title {
+	font-size: 50px;
+}
+.btn{
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+	background-color: rgb(223, 27, 27);
+	padding: 10px;
+	border-radius: 5px;
+}
